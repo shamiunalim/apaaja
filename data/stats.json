@@ -1,37 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T17:03:05.362Z",
+  "updatedAt": "2026-10-29T17:03:09.073Z",
   "totals": {
-    "messages": 615,
-    "incoming": 538,
-    "outgoing": 77,
-    "commands": 8
+    "messages": 39,
+    "incoming": 35,
+    "outgoing": 4,
+    "commands": 5
   },
   "days": {
     "2026-10-29": {
-      "messages": 599,
-      "incoming": 523,
-      "outgoing": 76,
-      "commands": 8
-    },
-    "2026-10-30": {
-      "messages": 16,
-      "incoming": 15,
-      "outgoing": 1,
-      "commands": 0
+      "messages": 39,
+      "incoming": 35,
+      "outgoing": 4,
+      "commands": 5
     }
   },
   "commands": {
     "s": 3,
     "ping": 1,
-    "menu": 1,
-    "self": 1,
-    "tt": 2
+    "menu": 1
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-10-29T12:55:40.396Z",
-    "lastSeenAt": "2026-10-29T17:03:03.472Z"
+    "startedAt": "2026-10-29T08:18:35.989Z",
+    "lastSeenAt": "2026-10-29T17:03:08.872Z"
   },
   "bots": [
     {
