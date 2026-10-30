@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T04:14:40.310Z",
+  "updatedAt": "2026-10-30T04:14:56.312Z",
   "totals": {
     "messages": 72,
     "incoming": 61,
@@ -31,9 +31,22 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-10-30T04:14:40.139Z",
-    "lastSeenAt": "2026-10-30T04:14:40.139Z"
+    "lastSeenAt": "2026-10-30T04:14:56.067Z"
   },
-  "bots": [],
+  "bots": [
+    {
+      "session": "session/bot1",
+      "status": "online",
+      "number": "6282156******",
+      "username": "Zhenith Assistant"
+    },
+    {
+      "session": "session/bot2",
+      "status": "menunggu login",
+      "number": "Belum login",
+      "username": "Belum diketahui"
+    }
+  ],
   "pairing": {
     "status": "login berhasil",
     "session": "session/bot1",
