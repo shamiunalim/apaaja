@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T14:57:58.190Z",
+  "updatedAt": "2026-10-30T14:58:13.276Z",
   "totals": {
-    "messages": 280,
-    "incoming": 263,
+    "messages": 283,
+    "incoming": 266,
     "outgoing": 17,
-    "commands": 19
+    "commands": 20
   },
   "days": {
     "2026-10-29": {
@@ -15,10 +15,10 @@
       "commands": 5
     },
     "2026-10-30": {
-      "messages": 241,
-      "incoming": 228,
+      "messages": 244,
+      "incoming": 231,
       "outgoing": 13,
-      "commands": 14
+      "commands": 15
     }
   },
   "commands": {
@@ -31,12 +31,12 @@
     "wm": 1,
     "afk": 1,
     "claim": 1,
-    "brat": 5
+    "brat": 6
   },
   "bot": {
     "status": "online",
     "startedAt": "2026-10-30T04:14:40.139Z",
-    "lastSeenAt": "2026-10-30T14:57:57.990Z"
+    "lastSeenAt": "2026-10-30T14:58:12.990Z"
   },
   "bots": [
     {
